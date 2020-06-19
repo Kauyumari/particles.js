@@ -7,6 +7,7 @@
 /* v2.0.0
 /* ----------------------------------------------- */
 
+
 var pJS = function(canvas, params){
 
   var canvas_el = canvas;
